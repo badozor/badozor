@@ -1,6 +1,6 @@
-## Pierre Bady
+## Badozor
 
-Biostatistician and bioinformatician.
+Biometrician / Biostatistician / bioinformatician
 
 <p align="center">
   <img src="assets/hex_packages.png" width="720" alt="Hexagonal logos of mgmtstp27, methyltools, modtools, pydudi, EFIplusExtension and SimNanoCNS"/>
