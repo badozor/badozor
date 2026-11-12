@@ -1,0 +1,18 @@
+## Pierre Bady
+
+Biostatistician and bioinformatician.
+
+<p align="center">
+  <img src="assets/hex_packages.png" width="720" alt="Hexagonal logos of mgmtstp27, methyltools, modtools, pydudi, EFIplusExtension and SimNanoCNS"/>
+</p>
+
+### Packages and tools
+
+| | Project | Description |
+|---|---|---|
+| R | [mgmtstp27](https://github.com/badozor/mgmtstp27) | Prediction of MGMT promoter methylation from Infinium arrays (27K, 450K, EPIC, EPICv2) |
+| R | [methyltools](https://github.com/badozor/methyltools) | Additional tools for the analysis of methylation data |
+| R | [modtools](https://github.com/badozor/modtools) | Additional tools for model diagnostic and selection |
+| Python | [pydudi](https://github.com/badozor/pydudi) | Data analysis methods based on the duality diagram |
+| Python | [EFIplusExtension](https://github.com/badozor/EFIplusExtension) | Local GUI to compute the European Fish Index (EFI+) |
+| Python | [SimNanoCNS](https://github.com/badozor/SimNanoCNS) | Simulation of Nanopore BAMs of brain tumours to test Rapid-CNS2_nf |
