@@ -3,7 +3,7 @@
 Biometrician / Biostatistician / bioinformatician
 
 <p align="center">
-  <img src="assets/hex_packages_v3.png" width="600" alt="Hexagonal logos of mgmtstp27, methyltools, modtools, ktabtools, plstools, pydudi, EFIplusExtension and SimNanoCNS"/>
+  <img src="assets/hex_packages_v4.png" width="680" alt="Hexagonal logos of mgmtstp27, methyltools, modtools, ktabtools, plstools, biomarkfinder, pydudi, EFIplusExtension and SimNanoCNS"/>
 </p>
 
 ### Packages and tools
