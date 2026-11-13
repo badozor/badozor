@@ -1,4 +1,4 @@
-## Badozor
+## Pierre Bady
 
 Biometrician / Biostatistician / bioinformatician
 
