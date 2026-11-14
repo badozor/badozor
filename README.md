@@ -3,7 +3,7 @@
 Biometrician / Biostatistician / bioinformatician
 
 <p align="center">
-  <img src="assets/hex_packages_v5.png" width="760" alt="Hexagonal logos of mgmtstp27, methyltools, modtools, ktabtools, plstools, PBmisc, biomarkfinder, pydudi, EFIplusExtension and SimNanoCNS"/>
+  <img src="assets/hex_packages_v6.png" width="760" alt="Hexagonal logos of mgmtstp27, methyltools, modtools, ktabtools, plstools, PBmisc, mahab, biomarkfinder, pydudi, EFIplusExtension and SimNanoCNS"/>
 </p>
 
 ### Packages and tools
@@ -16,6 +16,7 @@ Biometrician / Biostatistician / bioinformatician
 | R | [ktabtools](https://github.com/badozor/ktabtools) | Additional functions for K-table analyses and multiblock (s)PLS |
 | R | [plstools](https://github.com/badozor/plstools) | PLS and GPLS models based on the NIPALS algorithm |
 | R | [PBmisc](https://github.com/badozor/PBmisc) | Miscellaneous functions for statistical modelling, inference, multidimensional analyses and graphics |
+| R | [mahab](https://github.com/badozor/mahab) | Species distribution mapping based on the Mahalanobis distance |
 | Python | [pydudi](https://github.com/badozor/pydudi) | Data analysis methods based on the duality diagram |
 | Python | [EFIplusExtension](https://github.com/badozor/EFIplusExtension) | Local GUI to compute the European Fish Index (EFI+) |
 | Python | [SimNanoCNS](https://github.com/badozor/SimNanoCNS) | Simulation of Nanopore BAMs of brain tumours to test Rapid-CNS2_nf |
